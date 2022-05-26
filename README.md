@@ -1,10 +1,11 @@
 
 # 👋 Hi, I’m Keisha
-### Talent Partner - Engineering @ Form3, People/Dog person
+### Talent Partner - Engineering @ Form3<br> 
+<sub>OPTIMIST ▫️ FOODIE ▫️ DOG PERSON ▫️ SPORTS FAN</sub>
 
 >### About me👩
 
-Im a South African🇿🇦, living in the UK.<br> I joined Form3 in summer of 2021, with the express mission to scale up our ••AWESOME engineering team as we look to scale the team internationally across Europe, Canada and Argentina. 🌍
+Im a South African🇿🇦, living in the UK.<br> I joined Form3 in the summer of 2021, with the express mission to scale up our ***AWESOME*** engineering team as we look to scale the team internationally across Europe, Canada and Argentina. 🌍
 
 **Pronouns**: She/Her<br>
 **Personality:** [ESFP-T](https://www.16personalities.com/esfp-personality)<br>
@@ -22,7 +23,7 @@ Cloud-native payments pioneers. We are building the technology that will power t
 - [Our careers site](https://www.form3.tech/careers)
 - [Our candidate pack](https://github.com/form3tech-oss/candidate-pack)
 >### How to reach me
-If you want to chat about Form3 and our amazing, ••_remote-first_•• Engineering Team, feel free to get in touch on [LinkedIn](https://www.linkedin.com/in/keisha-coetzee/) or keisha.coetzee@form3.tech ✌️
+If you want to chat about Form3 and our amazing, ***remote-first*** Engineering Team, feel free to get in touch on [LinkedIn](https://www.linkedin.com/in/keisha-coetzee/) or keisha.coetzee@form3.tech ✌️
 <!---
 keisha-coetzee-form3/keisha-coetzee-form3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
