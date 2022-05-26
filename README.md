@@ -19,10 +19,10 @@ Cloud-native payments pioneers. We are building the technology that will power t
 
 - [Our engineering blog ✍️](https://www.form3.tech/engineering/content)
 - [Life at Form3 pages](https://www.form3.tech/engineering/life-at-form3)
-- [Our podcast](https://techpodcast.form3.tech/)
+- [Our podcast](https://techpodcast.form3.tech/)🎙
 - [Our careers site](https://www.form3.tech/careers)
-- [Our candidate pack](https://github.com/form3tech-oss/candidate-pack)
->### How to reach me
+- [Our candidate pack](https://github.com/form3tech-oss/candidate-pack)📖
+>### How to reach me 📬
 If you want to chat about Form3 and our amazing, ***remote-first*** Engineering Team, feel free to get in touch on [LinkedIn](https://www.linkedin.com/in/keisha-coetzee/) or keisha.coetzee@form3.tech ✌️
 <!---
 keisha-coetzee-form3/keisha-coetzee-form3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
