@@ -16,12 +16,13 @@ Im a South African🇿🇦, living in the UK.<br> I joined Form3 in the summer o
 Cloud-native payments pioneers. We are building the technology that will power the future of payments.<br>
 
 <!-- Add anything to say to candidates below-->
-
-- [Our engineering blog](https://www.form3.tech/engineering/content)
-- [Life at Form3 pages](https://www.form3.tech/engineering/life-at-form3)
-- [Our podcast](https://techpodcast.form3.tech/)
+- [Our stack](https://stackshare.io/form3/main) Go, K8s, NATS, CockroachDB, Multi-cloud
 - [Our careers site](https://www.form3.tech/careers)
 - [Our candidate pack](https://github.com/form3tech-oss/candidate-pack)
+- [Our podcast](https://techpodcast.form3.tech/)
+- [Our engineering blog](https://www.form3.tech/engineering/content)
+- [Life at Form3 pages](https://www.form3.tech/engineering/life-at-form3)
+
 >### How to reach me 📬
 If you want to chat about Form3 and our amazing, ***remote-first*** Engineering Team, feel free to get in touch on [LinkedIn](https://www.linkedin.com/in/keisha-coetzee/) or keisha.coetzee@form3.tech ✌️
 <!---
