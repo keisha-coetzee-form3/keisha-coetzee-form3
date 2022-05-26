@@ -5,7 +5,7 @@
 
 >### About me👩
 
-Im a South African🇿🇦, living in the UK.<br> I joined Form3 in the summer of 2021, with the express mission to scale up our ***AWESOME*** engineering team as we look to grow the team internationally across Europe, Canada and Argentina. 🌍
+Im a South African🇿🇦, living in the UK.<br> I joined Form3 in the summer of 2021, on a mission to scale up our ***AWESOME*** engineering team as we look to grow internationally across Europe, Canada and Argentina. 🌍
 
 **Pronouns**: She/Her<br>
 **Personality:** [ESFP-T](https://www.16personalities.com/esfp-personality)<br>
