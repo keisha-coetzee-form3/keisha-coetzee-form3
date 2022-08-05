@@ -8,7 +8,7 @@
 Im a South African🇿🇦, living in the UK.<br> I joined Form3 a year ago, on a mission to scale up our ***AWESOME*** engineering team as we look to grow internationally across Europe, Canada and Argentina. 🌍
 
 **Pronouns**: She/Her<br>
-**Personality:** [ESFP-T](https://www.16personalities.com/esfp-personality)<br>
+**Personality type:** [ESFP-T](https://www.16personalities.com/esfp-personality)<br>
 **Interests:** 🐶 🍣 🛩🌴 🧘‍♀️ 🏑🏉⚽️🏏
 <div style="page-break-after: always;"></div>
 
