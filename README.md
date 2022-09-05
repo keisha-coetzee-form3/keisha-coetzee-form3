@@ -28,6 +28,11 @@ Cloud-native payments pioneers. We are building the technology that will power t
 
 >### How to reach me 📬
 If you want to chat about Form3 and our amazing, ***remote-first*** Engineering Team, feel free to get in touch on [LinkedIn](https://www.linkedin.com/in/keisha-coetzee/) or keisha.coetzee@form3.tech ✌️
+>### Our values
+### T***ransparency*** :eyes:
+### E***veryone matters*** :busts_in_silhouette:
+### C***are deeply*** :revolving_hearts:
+### H***igh standards*** :trophy:
 <!---
 keisha-coetzee-form3/keisha-coetzee-form3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
