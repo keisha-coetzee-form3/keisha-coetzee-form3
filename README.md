@@ -22,6 +22,7 @@ Cloud-native payments pioneers. We are building the technology that will power t
 - [Our podcast](https://techpodcast.form3.tech/)
 - [Our engineering blog](https://www.form3.tech/engineering/content)
 - [Life at Form3 pages](https://www.form3.tech/engineering/life-at-form3)
+- [CTO Interview](https://medium.com/tech-captains/cto-interview-steve-cook-revolutionising-the-banking-infrastructure-4f92830e2441)
 - [The best intro to Golang EVER](https://www.youtube.com/watch?v=B1UP16OJpys)
 - [From Java to Go](https://www.linkedin.com/posts/adelina-simion_alwaysbelearning-javaengineer-golang-activity-6942030092495687680-LbNw?utm_source=linkedin_share&utm_medium=member_desktop_web) 
 - [Transitioning to Go](https://techpodcast.form3.tech/episodes/ep-24-tech-moving-to-go)
