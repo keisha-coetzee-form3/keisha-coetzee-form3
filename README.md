@@ -1,6 +1,6 @@
 
 # 👋 Hi, I’m Keisha
-### Talent Partner - Engineering @ Form3<br> 
+### Talent Partner - Engineering, GTM, Sales @ Form3<br> 
 <sub>OPTIMIST ▫️ FOODIE ▫️ DOG PERSON ▫️ SPORTS FAN ▫️ HODOPHILE</sub>
 
 >### About me👩
